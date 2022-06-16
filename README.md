@@ -1,4 +1,4 @@
-## Base de donné  immobilière Bd2 avec SQL
+## Base de donné  immobilière Dd2 avec SQL
 #### Projet effectué dans le cadre de ma formation chez OpenClassrooms
 ## Contexte
 Dans le cadre du projet « DATAImmo », un réseau national d’agences immobilières « Laplace Immo », lance la création d’une base donnée permettant de collecter les transactions immobilières et foncières en France. 
